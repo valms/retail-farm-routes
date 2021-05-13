@@ -17,3 +17,7 @@ Written instructions:
 Required addons:
 1) Routes: https://www.curseforge.com/wow/addons/routes
 2) Routes Import & Export: https://www.curseforge.com/wow/addons/routes-import-export
+
+Thanks for reading this.
+
+  xScarlife
