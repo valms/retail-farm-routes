@@ -4,7 +4,7 @@ This page contains all the farming routes I made myself to use in combination wi
 
 There are two ways how you can install these farming routes. There is a manual way and an automatic way. I stick with the automatic way to make things easier.
 
-You can watch my video where I explain how you can import my farming routes automatically here: https://youtu.be/h9vRYZWlrWk.
+You can watch my video where I explain how you can import my farming routes automatically here: https://youtu.be/ONdMZOPgmd4.
 
 
 Written instructions:
