@@ -14,8 +14,8 @@ Written instructions:
 4) Paste the route string to import (Ctrl+V) and click the Accept button. 
 5) Your route should now be correctly imported.
 
-**Required addons:
-**1) Routes: https://www.curseforge.com/wow/addons/routes
+**Required addons:**
+1) Routes: https://www.curseforge.com/wow/addons/routes
 2) Routes Import & Export: https://www.curseforge.com/wow/addons/routes-import-export
 
 Thanks for reading, have fun!
