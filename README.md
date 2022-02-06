@@ -7,7 +7,7 @@ There are two ways how you can install these farming routes. There is a manual w
 You can watch my video where I explain how you can import my farming routes automatically here: https://youtu.be/ONdMZOPgmd4.
 
 
-Written instructions:
+**Written instructions:**
 1) Download the 'Routes' and the 'Routes Import & Export' addons.
 2) Download the farming route export string you would like to use in-game from my Github page.
 3) To import a route copy the export string from the text file, open the "Routes" window (console command /routes) and select the "Routes" section. You can see a new Import text box. 
