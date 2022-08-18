@@ -10,7 +10,8 @@ You can watch my video where I explain how you can import my farming routes auto
 ## Written instructions
 1) Download the 'Routes' and the 'Routes Import & Export' addons.
 2) Download the farming route export string you would like to use in-game from my Github page.
-[1](https://user-images.githubusercontent.com/24465574/185458142-8b312e7e-8784-4605-9b18-464c7ceb55eb.png)
+![1](https://user-images.githubusercontent.com/24465574/185458308-5ab2281c-d84f-465e-9b62-68cddfdf1bcf.png)
+
 
 
 3) To import a route copy the export string from the text file, open the "Routes" window (console command /routes) and select the "Routes" section. You can see a new Import text box. 
