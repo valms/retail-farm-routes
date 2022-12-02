@@ -1,5 +1,0 @@
-Farming routes for Dragonflight are ready. Just waiting for the Routes addon to update so I can put them on GitHub.
-
-Thanks. 
-
-- xScarlife
