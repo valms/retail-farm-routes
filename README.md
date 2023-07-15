@@ -3,6 +3,8 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
 
+If you want to support me **[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
+
 This page contains all the farming routes I made myself to use in combination with the Routes addon. Please note that you are NOT allowed to share my farming routes on the internet without my permission. I made these routes to help out the World of Warcraft community.
 
 There are two ways how you can install these farming routes. There is a manual way and an automatic way. I stick with the automatic way to make things easier.
